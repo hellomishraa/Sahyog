@@ -8,7 +8,7 @@ Check it out live [here](https://sahyogweb.vercel.app).
 - Frontend
 
   - React.js
-  - Cakra UI
+  - Chakra UI
   - TailwindCSS
   - LucidReact Icons
 
