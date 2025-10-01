@@ -3,8 +3,6 @@
 @tailwind components;
 @tailwind utilities;
 
-/* ===== Global defaults ===== */
-
 /* Safer box model everywhere */
 *,
 *::before,
@@ -24,8 +22,6 @@ html, body {
   background-color: #fff; /* fallback background */
   color: #111827;         /* neutral text color */
 }
-
-/* ===== Dev-friendly helpers ===== */
 
 /* Fallback in case Tailwind doesn’t load */
 .no-tailwind & {
